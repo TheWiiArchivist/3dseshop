@@ -29,7 +29,7 @@ const bgm_main = document.getElementById("mainbgmaudio");
 const bgm_ext = document.getElementById("extrabgmaudio");
 
 
-bgm_main.src= "/3dseshop/bgm/mainBGM/eshop_2011_BGM.wav";
+bgm_main.src= "/3dseshop/bgm/mainBGM/eshop_2019_BGM.wav";
 // default 2011: eshop_2011_BGM.wav
 // default 2019: eshop_2019_BGM.wav
 // default 2020: eshop_2020_BGM.wav
