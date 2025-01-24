@@ -66,7 +66,7 @@ function wishlistplay() {
 }
 
 function ratetitlesplay() {
-  extbgmplay("/3dseshop/bgm/eshop_Rating_BGM.wav");
+  extbgmplay("/3dseshop/bgm/eShop_Rating_BGM.wav");
 }
 
 function downloadplay() {
